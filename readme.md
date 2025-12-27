@@ -1,2 +1,5 @@
 ## Simple Port Scanner
-Enter range and scan
+
+Enter domain, starting range, and ending range then scan.
+
+Do not scan large ranges as it might break :P
